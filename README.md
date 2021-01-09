@@ -1,7 +1,5 @@
-# PL #
-Propositional logic compiler written in Java
-___
+# PL  
+Propositional logic compiler-
 
-** Launch **
-
-Run _/src/top/Ex3.java_, evaluating sentences given in input.txt
+## Start
+Run `/src/top/Ex3.java` to evaluate the sentences in `/src/input.txt`
